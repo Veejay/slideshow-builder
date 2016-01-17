@@ -9,6 +9,10 @@ The application will be built using:
 ## TODO
 
 - Create all the components
+    - Main view
+    - Thumbnails for the selected slides
+    - Preview pane for the currently selected slide
+    - Sidepane for the all the actions (might be contextual to either the slide list or the current slide)
 - Handle file picker / drop events
 - Provide a preview for the selected slide
 - Provide pagination
