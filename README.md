@@ -1,10 +1,10 @@
 # Slideshow Builder
-A Slideshow Builder built on Angular 2
+A Slideshow Builder built on `AngularJS 2`
 
 The application will be built using:
-- Visual Code Studio (which provides nice TypeScript integration)
-- Twitter Bootstrap 4 (which should make up for my disastrous CSS skills)
-- TypeScript because it's the modern way to build web applications with Angular
+- `Visual Code Studio` (which provides nice `TypeScript` integration)
+- `Twitter Bootstrap 4` (which should make up for my disastrous `CSS` skills)
+- `TypeScript` because it's the modern way to build web applications with `AngularJS`
 
 ## TODO
 
