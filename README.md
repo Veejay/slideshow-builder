@@ -1,5 +1,5 @@
 # Slideshow Builder
-A Slideshow Builder built on `AngularJS 2`
+A Slideshow Builder built on `AngularJS 2` (see https://angular.io/)
 
 The application will be built using:
 - `Visual Code Studio` (which provides nice `TypeScript` integration)
